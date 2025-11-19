@@ -1,20 +1,95 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# MathForge
 
-# Run and deploy your AI Studio app
+```
+███╗   ███╗ █████╗ ████████╗██╗  ██╗
+████╗ ████║██╔══██╗╚══██╔══╝██║  ██║
+██╔████╔██║███████║   ██║   ███████║
+██║╚██╔╝██║██╔══██║   ██║   ██╔══██║
+██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║
+╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
 
-This contains everything you need to run your app locally.
+███████╗ ██████╗ ██████╗  ██████╗ ███████╗
+██╔════╝██╔═══██╗██╔══██╗██╔════╝ ██╔════╝
+█████╗  ██║   ██║██████╔╝██║  ███╗█████╗
+██╔══╝  ██║   ██║██╔══██╗██║   ██║██╔══╝
+██║     ╚██████╔╝██║  ██║╚██████╔╝███████╗
+╚═╝      ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+```
 
-View your app in AI Studio: https://ai.studio/apps/drive/1I-6MKdDDh8Lw6eWfYVfMT0vk8kIKS3ee
+## 🧮 MathForge  
+MathForge is a single-page, high-performance mathematical toolkit built with **React**, **TypeScript**, and **Tailwind CSS**.
 
-## Run Locally
+👉 Live Website: https://adhi2006-ind.github.io/mathforge/
 
-**Prerequisites:**  Node.js
+---
+
+## 🚀 Features
+
+### 🔢 Scientific Calculator
+- Basic & scientific modes  
+- Trigonometry, logs, powers  
+- DEG/RAD  
+- Implicit multiplication  
+- History  
+
+### 📈 Interactive Graph Plotter
+- Multi-function plotting  
+- Zoom, pan, pinch  
+- Trace points, min/max  
+- Add custom points  
+- Export  
+
+### 🧮 Matrix Calculator
+- Add, subtract, multiply  
+- Determinant, inverse, transpose  
+- Eigenvalues & eigenvectors  
+- Solve A·x=b  
+- Minors & cofactors  
+- Up to 8×8  
+
+### 💲 Currency Converter
+- 150+ currencies  
+- Live exchange rates  
+- Swap  
+- Last updated time  
+
+### 🧩 Unit Converter
+- Length, weight, volume  
+- Temperature, area, speed, time  
+- Digital storage  
+- High precision  
+
+### ⚠️ Quadratic Solver
+- Real & imaginary roots  
+- Discriminant  
+- Vertex & axis  
+- Standard & Vertex forms  
+
+### 🔢 Prime Factorizer
+- Prime breakdown  
+- Exponential notation  
+- All divisors  
+
+---
+
+## 🎨 UI / UX
+- Dark/Light  
+- 6 themes  
+- Mobile-first  
+- Glassmorphism  
+- Particle background  
+- Touch gestures  
+
+---
+
+## 🛠 Tech Stack
+- React 18  
+- TypeScript  
+- Tailwind  
+- Heroicons  
+- HTML5 Canvas  
+- react-swipeable  
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+
+
